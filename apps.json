@@ -665,6 +665,23 @@
     ]
   },
   {
+    "app": "Libre Calculator",
+    "text": "Conjunto de calculadoras com etapas explicadas, diagramas e pequenas lições de matemática.",
+    "page": "https://librecalculator.com",
+    "install": [
+      "# Debian/Ubuntu em x86-64 (amd64); interface e lições em inglês",
+      "# Baixe Libre.Calculator_0.1.0_amd64.deb em:",
+      "# https://github.com/tonyzedginidze/librecalculator/releases/tag/v0.1.0",
+      "# Na pasta do arquivo baixado, execute:",
+      "sudo apt update",
+      "sudo apt install ./Libre.Calculator_0.1.0_amd64.deb"
+    ],
+    "img": "https://raw.githubusercontent.com/tonyzedginidze/librecalculator/main/.github/readme/desktop-light.webp",
+    "categories": [
+      "Matemática"
+    ]
+  },
+  {
     "app": "LibreOffice Math",
     "text": "Editor de equações do LibreOffice",
     "page": "https://libreoffice.org",
