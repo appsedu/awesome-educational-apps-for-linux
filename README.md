@@ -106,6 +106,7 @@ Catálogo de software livre e open source voltado à educação no desktop Linux
 - [LibreOffice Math](https://libreoffice.org) - Editor de equações do LibreOffice
 - [Qalculate!](https://qalculate.github.io) - Calculadora de mesa fácil de usar e poderosa
 - [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) - Sistema de algebra computacional Maxima
+- [Libre Calculator](https://github.com/tonyzedginidze/librecalculator) - Conjunto de calculadoras com etapas explicadas, diagramas e pequenas lições de matemática
 
 ## Geografia
 
