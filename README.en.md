@@ -206,6 +206,7 @@ A catalog of free and open-source software for education on the Linux desktop �
 - [KWordQuiz](https://edu.kde.org/kwordquiz/) - Flashcard learning application
 - [Parley](https://kde.org/applications/en/education/org.kde.parley) - Vocabulary trainer
 - [PhET Simulações](https://phet.colorado.edu/pt_BR/simulations/browse) - Interactive simulations for science and math
+- [Scivra](https://scivra.com/) - Interactive 3D science labs for high school (physics, chemistry, biology, Earth and environmental science) that run in the browser on Linux; free to try, no account or download. Aligned with NGSS/AP/NY Regents.
 
 ## Tools
 
